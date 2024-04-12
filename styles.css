@@ -1,0 +1,17 @@
+:root {
+  --font-main: #9f9f9f;
+  --font-light: #fff;
+  --font-dark: #000;
+  --nav-bar: #3700b3;
+  --nav-bar-links: #6200ee ;
+  --header: #6200ee;
+  --input-background: #cdcdcd;
+  --input-border: #9f9f9f;
+  --input-symbol: var(--font-main);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
